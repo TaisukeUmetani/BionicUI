@@ -23,4 +23,3 @@ sudo apt-get install libopencv-core-dev libopencv-highgui-dev \
 cd ..
 wget https://raw.githubusercontent.com/google/mediapipe/master/setup_opencv.sh
 bash ./setup_opencv.sh
-
