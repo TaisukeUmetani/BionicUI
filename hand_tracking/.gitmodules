@@ -1,4 +1,0 @@
-[submodule "mediapipe"]
-    path = ./mediapipe
-    url = git://github.com/google/mediapipe.git
-    ignore = dirty
